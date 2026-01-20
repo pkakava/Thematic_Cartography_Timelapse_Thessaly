@@ -18,7 +18,7 @@ Users can interactively control the animation and map appearance.
 → Population data are based on the Hellenic Statistical Authority (ELSTAT) for the years: 1991, 2001, 2011, and 2021
 
 **Author**
-Panagiota Kakava
-National Technical University of Athens (NTUA)
-School of Rural, Surveying & Geoinformatics Engineering
+Panagiota Kakava  
+National Technical University of Athens (NTUA)  
+School of Rural, Surveying & Geoinformatics Engineering  
 Cartography Laboratory
